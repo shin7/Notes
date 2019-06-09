@@ -1,8 +1,6 @@
 # Installing Deep Learning Frameworks on Ubuntu with CUDA support
 
-![Tensorflow CUDA](https://github.com/shin7/Notes/blob/master/Installing_Deep_Learning_Frameworks_with_CUDA_support/image/tensorflow_with_cuda.png)
-
-![Pytorch Keras](https://github.com/shin7/Notes/blob/master/Installing_Deep_Learning_Frameworks_with_CUDA_support/image/keras_pytorch.jpeg)
+![Deep Learning Installation](https://github.com/shin7/Notes/blob/master/Installing_Deep_Learning_Frameworks_with_CUDA_support/image/deep_learning_installation.png)
 
 In this article, we will learn how to install Deep Learning Frameworks like TensorFlow, Keras and PyTorch on a machine having a NVIDIA graphics card.
 
